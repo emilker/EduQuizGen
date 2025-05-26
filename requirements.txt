@@ -25,3 +25,7 @@ json5==0.9.25
 
 # Interfaz (opcional)
 streamlit==1.33.0  # Solo si planeas hacer interfaz web
+torch==2.2.2  # Versión estable
+
+# 📄 Generación de PDFs
+reportlab==4.2.0
